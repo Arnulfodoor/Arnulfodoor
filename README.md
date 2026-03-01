@@ -50,9 +50,7 @@ Fuera del código, soy **árbitro de fútbol federado** y practico entrenamiento
 
 <div align="center">
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arnulfodoor&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnulfodoor&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arnulfodoor&theme=tokyo-night&hide_border=true)
 
