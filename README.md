@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Daniel Puerta 👋
+# ¡Hola! Soy Daniel 👋
 ### Desarrollador Web Full Stack · Técnico en Sistemas · 16 años
 
 *Construyo sistemas web reales, funcionales y escalables.*
