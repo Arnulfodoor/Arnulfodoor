@@ -75,7 +75,7 @@ Fuera del código, soy **árbitro de fútbol federado** y practico entrenamiento
 [![Portfolio](https://img.shields.io/badge/Portfolio-daniel.stryup.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://daniel.stryup.com)
 [![Email](https://img.shields.io/badge/Email-daniel.puerta@stryup.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.puerta@stryup.com)
 [![Teléfono](https://img.shields.io/badge/Teléfono-606994419-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+34606994419)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-danipuerta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danipuerta/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel-Puerta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danipuerta/)
 
 </div>
 
