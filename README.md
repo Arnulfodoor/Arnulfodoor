@@ -5,8 +5,8 @@
 
 *Construyo sistemas web reales, funcionales y escalables.*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-daniel.stryup.com-0A66C2?style=for-the-badge)](https://daniel.stryup.com)
-[![Email](https://img.shields.io/badge/📧_Email-daniel.puerta@stryup.com-D14836?style=for-the-badge)](mailto:daniel.puerta@stryup.com)
+
+[![Email](https://img.shields.io/badge/📧_Email-daniel.puerta@stryup.com-D14836?style=for-the-badge)](mailto:seibadoor7@gmail.com)
 
 </div>
 
@@ -72,8 +72,7 @@ Fuera del código, soy **árbitro de fútbol federado** y practico entrenamiento
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-daniel.stryup.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://daniel.stryup.com)
-[![Email](https://img.shields.io/badge/Email-daniel.puerta@stryup.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.puerta@stryup.com)
+[![Email](https://img.shields.io/badge/Email-daniel.puerta@stryup.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seibadoor7@gmail.com)
 [![Teléfono](https://img.shields.io/badge/Teléfono-606994419-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+34606994419)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danpuerta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danipuerta/)
 
