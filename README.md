@@ -6,7 +6,7 @@
 *Construyo sistemas web reales, funcionales y escalables.*
 
 
-[![Email](https://img.shields.io/badge/📧_Email-daniel.puerta@stryup.com-D14836?style=for-the-badge)](mailto:seibadoor7@gmail.com)
+[![Email](https://img.shields.io/badge/📧_Email-seibadoor7@gmail.com.com-D14836?style=for-the-badge)](mailto:seibadoor7@gmail.com)
 
 </div>
 
@@ -18,7 +18,6 @@ Soy un desarrollador autodidacta apasionado por crear sistemas web completos: au
 
 Fuera del código, soy **árbitro de fútbol federado** y practico entrenamiento de fuerza — lo que me ha dado disciplina, toma de decisiones bajo presión y constancia.
 
-- 🏫 Actualmente en **3º de la ESO**
 - 📍 **España**
 - 🚀 Siempre aprendiendo algo nuevo
 
@@ -72,7 +71,7 @@ Fuera del código, soy **árbitro de fútbol federado** y practico entrenamiento
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-daniel.puerta@stryup.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seibadoor7@gmail.com)
+[![Email](https://img.shields.io/badge/Email-seibadoor7@gmail.com.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seibadoor7@gmail.com)
 [![Teléfono](https://img.shields.io/badge/Teléfono-606994419-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+34606994419)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danpuerta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danipuerta/)
 
